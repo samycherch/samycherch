@@ -15,7 +15,7 @@
     <h3 align="center">Étudiant en informatique à l'IUT Nancy-Charlemagne</h3>
 
    <p align="center">
-    <img align="center" src="https://lpct.cnrs.fr/wp-content/uploads/2022/04/logo-universite-de-lorraine-recadre.png"  width="150">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_Universit%C3%A9_de_Lorraine.svg/1280px-Logo_Universit%C3%A9_de_Lorraine.svg.png"  width="150">
 </p>
 
 <p align="center">
