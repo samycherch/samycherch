@@ -15,7 +15,7 @@
     <h3 align="center">Étudiant en informatique à l'IUT Nancy-Charlemagne</h3>
 
    <p align="center">
-    <img align="center" src="https://www.crous-lorraine.fr/wp-content/uploads/sites/14/2022/12/Universite-de-Lorraine.png"  width="150">
+    <img align="center" src="https://www.univ-lorraine.fr/modele-enfant/wp-content/uploads/sites/51/2021/02/UL_LOGO_BLANC_RVB.png"  width="150">
 </p>
 
 <p align="center">
