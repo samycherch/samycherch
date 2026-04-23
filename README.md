@@ -11,7 +11,7 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=971CD6&center=true&vCenter=true&lines=developer+fullstack;Love+jojo;j'adore+les+jeux+de+combat">
     <h3 align="center">J'aime coder et apprendre de nouvelles choses</h3>
-    <h3 align="center">Je suis développeur web</h3>
+    <h3 align="center">Je suis débuttant dans le développement web</h3>
     <h3 align="center">Étudiant en informatique à l'IUT Nancy-Charlemagne</h3>
 
    <p align="center">
@@ -28,7 +28,7 @@
     <img align="center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"  width="400">
 </p>
 
-- 🔭 Je travaille en ce moment sur **mon auto entreprise**
+- 🔭 Je travaille en ce moment sur **un projet d'auto entreprise**
 
 - 🌱 J'apprends a utiliser des outils comme **n8n, Antigravity**
 
@@ -71,7 +71,7 @@
                     <a href="https://github.com/VanLyxe/propulsia" target="_blank" rel="noreferrer"> PropulsIA</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/VanLyxe/propulsia" target="_blank" rel="noreferrer"> <img src="C:\Users\samyc\Videos\Enregistrements d’écran\demo.mp4" alt="chillflix"/> </a>
+                    <a href="https://github.com/VanLyxe/propulsia" target="_blank" rel="noreferrer"></a>
                     <p align="center">
                         Une plateforme qui permet d'améliorer les images de commerces avec l'IA (site Vibe Coder dans le cadre d'un stage)
                     </p>
@@ -79,7 +79,10 @@
 						<summary>
 						<b>Note 📝</b>
 						</summary>
-						I used Vue 2 and typescript. Also use webpack.
+						J'ai utilisé :
+						- Claude Code
+						- HTML/CSS
+						- JavaScript
 					</details>
             </p>
             </td>
