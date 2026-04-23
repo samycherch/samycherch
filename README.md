@@ -60,3 +60,29 @@
 <p align="center">
     <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/08c4de69417443.5b8071d3055fb.png" width="150">
 </p>
+
+<!-- Projects -->
+<h1 align="center">Mon dernier projet</h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/VanLyxe/propulsia" target="_blank" rel="noreferrer"> PropulsIA</a>
+                </h3>
+                <p align="center">
+                    <a href="https://github.com/VanLyxe/propulsia" target="_blank" rel="noreferrer"> <img src="C:\Users\samyc\Videos\Enregistrements d’écran\demo.mp4" alt="chillflix"/> </a>
+                    <p align="center">
+                        Une plateforme qui permet d'améliorer les images de commerces avec l'IA (site Vibe Coder dans le cadre d'un stage)
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used Vue 2 and typescript. Also use webpack.
+					</details>
+            </p>
+            </td>
+        </tr>
+  </table>
+</div>
