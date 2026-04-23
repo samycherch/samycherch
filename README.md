@@ -57,10 +57,6 @@
 
 
 
-<p align="center">
-    <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/08c4de69417443.5b8071d3055fb.png" width="150">
-</p>
-
 <!-- Projects -->
 <h1 align="center">Mon dernier projet</h1>
 <div align="center">
@@ -89,3 +85,7 @@
         </tr>
   </table>
 </div>
+
+<p align="center">
+    <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/08c4de69417443.5b8071d3055fb.png" width="150">
+</p>
